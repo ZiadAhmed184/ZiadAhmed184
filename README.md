@@ -1,6 +1,7 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm Ziad Ahmed!
 
-![Profile Picture](E:\JS_CSS_PortfolioProject-master\ethan-portfolio-starter-main/fotor-ai-2023071463711.jpg)
+![Profile Picture](![fotor-ai-2023071463711](https://github.com/ZiadAhmed184/ZiadAhmed184/assets/91778232/c46bce88-791a-4403-8f09-d911af52996a)
+)
 
 🌟 Node.js Backend Developer | Software Engineer | Continuous Learner
 
