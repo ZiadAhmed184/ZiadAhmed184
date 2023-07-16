@@ -46,7 +46,7 @@
   <img src="https://keenethics.com/wp-content/uploads/2022/01/rest-api-1.svg" alt="rest-api" width="50" height="50" data-canonical-src="https://www.vectorlogo.zone/logos/restfulapi/restfulapi-icon.svg" style="max-width: 100%;">
 </a>
 <a href="https://socket.io/" rel="nofollow">
-  <img src="https://thumbnail.imgbin.com/4/24/4/imgbin-socket-io-node-js-express-js-npm-network-socket-socket-bm3EvY8jtXcuzn3e2nxEwiM6x_t.jpg" style="background-color:#484f58; max-width: 100%;" alt="socket-io" width="50" height="50" data-canonical-src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg">
+  <img src="https://thumbnail.imgbin.com/4/24/4/imgbin-socket-io-node-js-express-js-npm-network-socket-socket-bm3EvY8jtXcuzn3e2nxEwiM6x_t.jpg" style="max-width: 100%;" alt="socket-io" width="50" height="50" data-canonical-src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg">
 </a>
 
 </p>
