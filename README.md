@@ -20,7 +20,7 @@
 📫 Feel free to connect with me or explore my projects here on GitHub. Let's build amazing things together!
 - 👨‍💻 All of my projects are available at [https://github.com/ZiadAhmed184](https://github.com/ZiadAhmed184)
 
-<h3 align="left">Connect with me:ziadahmedshawky123@gmail.com</h3>
+<h3 align="left">Connect with me:<a href="ziadahmedshawky123@gmail.com">ziadahmedshawky123@gmail.com</a>a></h3>
 <p align="left">
 </p>
 
