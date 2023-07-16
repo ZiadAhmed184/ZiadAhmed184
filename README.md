@@ -22,6 +22,7 @@
 🌱 Open to exciting opportunities and collaborations in the software engineering space.
 
 📫 Feel free to connect with me or explore my projects here on GitHub.
+
 👨‍💻 All of my projects are available at [https://github.com/ZiadAhmed184](https://github.com/ZiadAhmed184)
 
 <h5 align="left">Contact with me at :<a href="mailto:ziadahmedshawky123@gmail.com" >ziadahmedshawky123@gmail.com</a></h5>
