@@ -1,16 +1,19 @@
-### Hi there 👋
+# 👋 Hello, I'm [Your Name]!
 
-<!--
-**ZiadAhmed184/ZiadAhmed184** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Picture](E:\JS_CSS_PortfolioProject-master\ethan-portfolio-starter-main/fotor-ai-2023071463711.jpg)
 
-Here are some ideas to get you started:
+🌟 Node.js Backend Developer | Software Engineer | Continuous Learner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Passionate about crafting efficient and scalable backend solutions using Node.js and related technologies.
+
+🚀 Experienced in developing RESTful APIs, server-side applications, and database management systems.
+
+🌐 Skilled in working with frameworks like Express.js and leveraging databases such as MongoDB or MySQL.
+
+📚 Continuously learning and exploring new technologies to stay up-to-date with the rapidly evolving tech landscape.
+
+💡 Committed to delivering high-quality, maintainable code to build robust software solutions.
+
+🌱 Open to exciting opportunities and collaborations in the software engineering space.
+
+📫 Feel free to connect with me or explore my projects here on GitHub. Let's build amazing things together!
