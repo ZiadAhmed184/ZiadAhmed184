@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Ziad Ahmed!
 
-  ![fotor-ai-2023071463711](https://github.com/ZiadAhmed184/ZiadAhmed184/assets/91778232/6ccaea1f-b01d-4777-a691-d88d8bc81622)
+  ![fotor-ai-2023071463711](https://github.com/ZiadAhmed184/ZiadAhmed184/assets/91778232/6ccaea1f-b01d-4777-a691-d88d8bc81622 | width=100)
 
 🌟 Node.js Backend Developer | Software Engineer | Continuous Learner
 
