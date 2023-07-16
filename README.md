@@ -11,16 +11,20 @@
 
 🌐 Skilled in working with frameworks like Express.js and leveraging databases such as MongoDB or MySQL.
 
+🔒 Ensuring app security with features like cookie parser and JWT authentication.
+
+🌍 Utilizing EJS for dynamic and responsive web page rendering.
+
 📚 Continuously learning and exploring new technologies at backend development to stay up-to-date with the rapidly evolving tech landscape.
 
 💡 Committed to delivering high-quality, maintainable code to build robust software solutions.
 
 🌱 Open to exciting opportunities and collaborations in the software engineering space.
 
-📫 Feel free to connect with me or explore my projects here on GitHub. Let's build amazing things together!
+📫 Feel free to connect with me or explore my projects here on GitHub.
 - 👨‍💻 All of my projects are available at [https://github.com/ZiadAhmed184](https://github.com/ZiadAhmed184)
 
-<h6 align="left">Connect with me at gmail:<a href="mailto:ziadahmedshawky123@gmail.com" >ziadahmedshawky123@gmail.com</a></6>
+<h6 align="left">Contact with me at :<a href="mailto:ziadahmedshawky123@gmail.com" >ziadahmedshawky123@gmail.com</a></6>
 <p align="left">
 </p>
 
