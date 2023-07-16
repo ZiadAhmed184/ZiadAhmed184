@@ -36,5 +36,15 @@
 <a href="https://ejs.co/" target="_blank" rel="noreferrer">
   <img src="https://ejspr.com/app/uploads/2021/03/EJS-Monogram_Grass-Green_High-Res.png" alt="ejs" width="50" height="50" />
 </a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/> </a>
+ <a href="https://jwt.io/" rel="nofollow">
+  <img src="https://jwt.io/img/logo-asset.svg" alt="jwt" width="50" height="50" data-canonical-src="https://www.vectorlogo.zone/logos/jwt/jwt-icon.svg" style="max-width: 100%;">
+</a>
+<a href="https://restfulapi.net/" rel="nofollow">
+  <img src="https://keenethics.com/wp-content/uploads/2022/01/rest-api-1.svg" alt="rest-api" width="50" height="50" data-canonical-src="https://www.vectorlogo.zone/logos/restfulapi/restfulapi-icon.svg" style="max-width: 100%;">
+</a>
+<a href="https://socket.io/" rel="nofollow">
+  <img src="https://ik.imagekit.io/ably/ghost/prod/2021/03/socket-io-logo-1.jpeg?tr=w-1728,q-50" alt="socket-io" width="50" height="50" data-canonical-src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" style="max-width: 100%;">
+</a>
+
 </p>
 
