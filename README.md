@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Ziad Ahmed!
 
-  <img src="https://github.com/ZiadAhmed184/ZiadAhmed184/assets/91778232/8191d356-ee89-4413-af99-3e0f0f30a0a7" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="100%" height="400px" />
+  <img src="https://github.com/ZiadAhmed184/ZiadAhmed184/assets/91778232/8191d356-ee89-4413-af99-3e0f0f30a0a7" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400px" />
 
 🌟 Node.js Backend Developer | Software Engineer | Continuous Learner
 
